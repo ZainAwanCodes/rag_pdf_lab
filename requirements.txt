@@ -1,0 +1,7 @@
+# PDF RAG Lab — Python dependencies
+# Compatible with Streamlit Community Cloud (Python 3.11+)
+# Run: pip install -r requirements.txt
+
+pypdf>=4.0,<6.0
+scikit-learn>=1.4,<2.0
+google-generativeai>=0.7,<1.0
